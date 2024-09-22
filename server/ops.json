@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "2688bcf1-dcf4-472f-bfea-192fa9ed93f5",
+    "name": "Gachambling",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
